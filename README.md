@@ -1,6 +1,11 @@
 # **DR7-STORES ANALYSIS**
 
-![Title Image](title_image.jpeg)
+![](title_image.jpeg)
+
+
+
+
+
 
 ## **Introduction**
 This is a power BI Project on a fictional time-series dataset of **DR7 STORES** The project is to analyze and drive insight to answer crucial questions and help make data driven decisions.
@@ -39,7 +44,8 @@ Upon cleaning the data was loaded into Power BI and 3 pages were created
 
 **Home Page**
 
-![Home page](home_page.png)
+![](clever_model.png)
+
 
 The home page is summarizing all the information needed to be know about the DR7 STORES, where they operate and what do they operate it.
 
