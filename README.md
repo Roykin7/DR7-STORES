@@ -1,9 +1,7 @@
 # **DR7-STORES ANALYSIS**
 
-![](title_image.jpeg)
 
-
-
+![](Header_title.png)
 
 
 
@@ -27,13 +25,13 @@ The following skills were demonstrated, Data cleaning, Quick measures, Data Visu
 
 The dataset was cleaned using Microsoft Excell 356 and when came in as CSV format and had to be changed into Excel Workbook format so that it can be saved and worked on properly. The dataset contains 99458 rows and 13 columns with titled invoice_no, invoice_date, customer_id, gender, age, category, quantity, selling_price_per_unit, cost_price_per_unit, payment_method, region, state, shopping_mall.
 
-![Original dataset](Original_dataset.png)
+![](Pre_set.png)
 
 The had to split the invoice_date collum so that I obtain separate colllums for Date and Time using this formula (=INT(B2)) to obtain date into collum C2 as well as (=B2-C2) to obtain the time in collum D2 and then I applied Auto fill for the rest of the remaining 99456 rows. 
 
 To determnine the performance of the store, A new column measuring profit per unit items had to be created subtracting selling_price_per_unit from cost_price_per_unit hence measuring total profit obtained by the shopping mall on each customer by Multiplying Profit per unit with quantity of the items bought by the customer.
 
-![Cleaned data set](cleaned_data_set.png)
+![](Post_set.png)
 
 
 **For accurate analysis, the decimal points weren’t changed to whole numbers**.
@@ -52,13 +50,12 @@ The home page is summarizing all the information needed to be know about the DR7
 **Profit Analysis**
 
 
-![Profit page](profit_page.png)
+![](Gain_profit.png)
 
 
 **Sales Analysis**
 
-
-![Sales Page](sales_.png)
+![](Selling_sales.png)
 
 
 You can interact with the report via this Link
